@@ -28,7 +28,7 @@ A powerful and user-friendly password generator built with Python and Tkinter.
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 1. **Clone the repository**:
 
