@@ -64,23 +64,23 @@ A powerful and user-friendly password generator built with Python and Tkinter.
 
 ## Changelogs
 
-# Version 1.0 - Initial Release
-# Version 1.1 - Added options to exclude ambiguous characters and auto-copy
-# Version 1.2 - Implemented password strength scoring and entropy display
-# Version 1.3 - Integrated history tracking with timestamp
-# Version 1.4 - Added Save/Load/Export Settings functionality
-# Version 1.5 - Introduced dark mode toggle and password visibility toggle
-# Version 1.6 - Refactored UI for better usability and layout scaling
-# Version 1.7 - Removed dark mode button
-# Version 1.8 - Added password history viewer and reset history button
-# Version 1.9 - Added watermark with author's name to UI
-# Version 2.0 - Added Password Strength Rating and Easy-to-Read Suggestions
-# Version 2.1 - Added right-click context menu to copy password manually
-# Version 2.2 - Added keyboard shortcut (Enter key) to trigger password generation
-# Version 2.3 - Display file path to the user after saving settings
-# Version 2.4 - Added tooltip for recommended password length (12–16 characters)
-# Version 2.5 - Grouped password length label and scale in a frame
-# Version 2.6 - Added second tab for random number generator
+ Version 1.0 - Initial Release
+ Version 1.1 - Added options to exclude ambiguous characters and auto-copy
+ Version 1.2 - Implemented password strength scoring and entropy display
+ Version 1.3 - Integrated history tracking with timestamp
+ Version 1.4 - Added Save/Load/Export Settings functionality
+ Version 1.5 - Introduced dark mode toggle and password visibility toggle
+ Version 1.6 - Refactored UI for better usability and layout scaling
+ Version 1.7 - Removed dark mode button
+ Version 1.8 - Added password history viewer and reset history button
+ Version 1.9 - Added watermark with author's name to UI
+ Version 2.0 - Added Password Strength Rating and Easy-to-Read Suggestions
+ Version 2.1 - Added right-click context menu to copy password manually
+ Version 2.2 - Added keyboard shortcut (Enter key) to trigger password generation
+ Version 2.3 - Display file path to the user after saving settings
+ Version 2.4 - Added tooltip for recommended password length (12–16 characters)
+ Version 2.5 - Grouped password length label and scale in a frame
+ Version 2.6 - Added second tab for random number generator
 
 ---
 
